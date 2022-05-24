@@ -3,7 +3,7 @@ In 2015, the United Nations General Assembly created 17 interlinked global goals
 was intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals was named the Sustainable Development Goals (SDG).
 
 In this notebook, 27 different datasets from the Philippine Statistics Authority, the government agency assigned to update the Philippine's data on this goals, would be combined. Fifteen (15) of these datasets are directly about the SDG, while others are indirectly connected to the SDGs.
-## Project Files.
+## Project Files
 |     Files                                                             | Description                                                                                                                                                |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | N01-Group1.ipynb                                                      | Jupyter Notebook                                                                                |
