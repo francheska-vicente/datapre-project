@@ -36,11 +36,12 @@ In this notebook, 27 different datasets from the Philippine Statistics Authority
 | Quarterly Producer Price Index for Agriculture (2018=100) First Quarter 2018 to Third Quarter 2021.csv          | Quarterly Producer Price Index for Agriculture, by Commodity Group and by Region (2018=100)First Quarter 2018 to Third Quarter 2021							     |
 
 ## Setting up
-### How to set up and run the project locally
+### How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://github.com/francheska-vicente/datapre-project.git).
-2. Open Jupyter notebook
-3. Open N01-Group1.ipynb
-4. Now, you would be able to use the application!
+2. Launch `Jupyter notebook` or `JupyterLab`.
+3. Navigate to the project folder containing N01-Group1.ipynb.
+4. Open `N01-Group1.ipynb`.
+5. Now, you would be able to use the application!
 
 ## Authors
 - **Cerilla, Vincent Carlo Lopez** <br/>
