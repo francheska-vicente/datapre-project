@@ -29,15 +29,11 @@ In this notebook, 27 different datasets from the Philippine Statistics Authority
 | Government Final Consumption Expenditure, by Region, Percent Share.csv| Government Final Consumption Expenditure, by Region, Percent Share         										     |
 | Gross Capital Formation, by Region.csv                                | Gross Capital Formation, by Region      														     |
 | Gross Regional Domestic Product, by Region.csv                        | Gross Regional Domestic Product, by Region                                        									     |
-| Mortality rate attributed to cardiovascular disease, cancer, diabetes-|  Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease                                                      |
-| or chronic respiratory disease.csv                                    |                                                             												     |
+| Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.csv|  Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease                    |
 | Population, by Region.csv                                             | Population, by Region        																     |
 | Primary Drop-out rates by Region, Sex and Year.csv                    | Primary Drop-out rates by Region, Sex and Year                        										     |
-| Proportion of women of reproductive age (aged 15-49 years) who have-  | Proportion of women of reproductive age (aged 15-49 years) who have their need for                                                          		     |
-| their need for family planning satisfied [provided] with modern-      | family planning satisfied [provided] with modernm ethods                                                   						     |
-| methods.csv                                                           |           																		     |
-| Quarterly Producer Price Index for Agriculture (2018=100) _           | Quarterly Producer Price Index for Agriculture, by Commodity Group and by Region (2018=100)								     |
-| First Quarter 2018 to Third Quarter 2021.csv                          | : First Quarter 2018 to Third Quarter 2021 by Region, Commodity, Year and Period           								     |
+| Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied [provided] with modern methods.csv  | Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied [provided] with modern methods                     		     |
+| Quarterly Producer Price Index for Agriculture (2018=100) First Quarter 2018 to Third Quarter 2021.csv          | Quarterly Producer Price Index for Agriculture, by Commodity Group and by Region (2018=100)First Quarter 2018 to Third Quarter 2021							     |
 
 ## Setting up
 ### How to set up and run the project locally
