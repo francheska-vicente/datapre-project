@@ -1,0 +1,395 @@
+,Geolocation,Year,4.1.s1 Completion Rate of elementary and secondary students (Elementary),4.1.s1 Completion Rate of elementary and secondary students (Junior High School),4.1.s1 Completion Rate of elementary and secondary students (Senior High School),4.c.s2 Number of Technical-Vocational Education and Training (TVET) trainers trained
+0,PHILIPPINES,2000,62.72,70.07,,
+1,NCR: National Capital Region,2000,63.87,68.16,,
+2,CAR: Cordillera Administrative Region,2000,61.95,70.31,,
+3,Region 1: Ilocos Region,2000,78.73,73.38,,
+4,Region 2: Cagayan Valley,2000,70.75,72.2,,
+5,Region 3: Central Luzon,2000,75.06,75.19,,
+6,Region 4A: CALABARZON,2000,68.21,74.79,,
+7,Region 5: Bicol Region,2000,64.7,68.3,,
+8,Region 6: Western Visayas,2000,65.45,67.93,,
+9,Region 7: Central Visayas,2000,68.96,71.54,,
+10,Region 8: Eastern Visayas,2000,56.84,64.25,,
+11,Region 9: Zamboanga Peninsula,2000,51.01,62.65,,
+12,Region 10: Northern Mindanao,2000,61.11,68.1,,
+13,Region 11: Davao Region,2000,60.19,73.33,,
+14,Region 12: SOCCSKSARGEN,2000,46.77,63.19,,
+15,CARAGA: Cordillera Administrative Region,2000,56.66,60.57,,
+16,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2000,24.3,58.35,,
+17,PHILIPPINES,2001,68.18,69.97,,
+18,NCR: National Capital Region,2001,74.29,68.43,,
+19,CAR: Cordillera Administrative Region,2001,59.55,61.75,,
+20,Region 1: Ilocos Region,2001,79.7,75.35,,
+21,Region 2: Cagayan Valley,2001,74.07,69.4,,
+22,Region 3: Central Luzon,2001,74.63,70.72,,
+23,Region 4A: CALABARZON,2001,80.87,76.79,,
+24,Region 5: Bicol Region,2001,70.17,67.92,,
+25,Region 6: Western Visayas,2001,63.88,71.47,,
+26,Region 7: Central Visayas,2001,71.52,68.64,,
+27,Region 8: Eastern Visayas,2001,63.64,64.9,,
+28,Region 9: Zamboanga Peninsula,2001,48.56,67.71,,
+29,Region 10: Northern Mindanao,2001,62.65,67.44,,
+30,Region 11: Davao Region,2001,67.55,68.53,,
+31,Region 12: SOCCSKSARGEN,2001,51.07,63.96,,
+32,CARAGA: Cordillera Administrative Region,2001,69.09,63.02,,
+33,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2001,31.9,64.41,,
+34,PHILIPPINES,2002,71.55,74.81,,
+35,NCR: National Capital Region,2002,84.35,75.51,,
+36,CAR: Cordillera Administrative Region,2002,77.61,59.41,,
+37,Region 1: Ilocos Region,2002,86.74,79.29,,
+38,Region 2: Cagayan Valley,2002,72.6,69.95,,
+39,Region 3: Central Luzon,2002,81.14,72.88,,
+40,Region 4A: CALABARZON,2002,77.91,77.13,,
+41,MIMAROPA: Southwestern Tagalog Region,2002,69.19,76.83,,
+42,Region 5: Bicol Region,2002,76.1,77.81,,
+43,Region 6: Western Visayas,2002,60.21,73.28,,
+44,Region 7: Central Visayas,2002,79.66,81.14,,
+45,Region 8: Eastern Visayas,2002,64.43,63.49,,
+46,Region 9: Zamboanga Peninsula,2002,47.47,73.22,,
+47,Region 10: Northern Mindanao,2002,66.28,79.56,,
+48,Region 11: Davao Region,2002,68.51,73.08,,
+49,Region 12: SOCCSKSARGEN,2002,62.25,76.79,,
+50,CARAGA: Cordillera Administrative Region,2002,69.33,79.63,,
+51,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2002,46.6,60.94,,
+52,PHILIPPINES,2003,70.24,71.67,,
+53,NCR: National Capital Region,2003,83.81,73.36,,
+54,CAR: Cordillera Administrative Region,2003,73.9,73.61,,
+55,Region 1: Ilocos Region,2003,84.46,75.53,,
+56,Region 2: Cagayan Valley,2003,78.63,76.66,,
+57,Region 3: Central Luzon,2003,83.25,71.3,,
+58,Region 4A: CALABARZON,2003,76.5,77.91,,
+59,MIMAROPA: Southwestern Tagalog Region,2003,70.42,72.25,,
+60,Region 5: Bicol Region,2003,71.7,69.74,,
+61,Region 6: Western Visayas,2003,68.05,75.37,,
+62,Region 7: Central Visayas,2003,70.93,69.45,,
+63,Region 8: Eastern Visayas,2003,68.19,68.88,,
+64,Region 9: Zamboanga Peninsula,2003,56.41,62.14,,
+65,Region 10: Northern Mindanao,2003,65.97,62.73,,
+66,Region 11: Davao Region,2003,64.66,61.38,,
+67,Region 12: SOCCSKSARGEN,2003,63.36,66.24,,
+68,CARAGA: Cordillera Administrative Region,2003,66.93,64.0,,
+69,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2003,27.95,62.33,,
+70,PHILIPPINES,2004,69.06,72.38,,
+71,NCR: National Capital Region,2004,82.1,77.33,,
+72,CAR: Cordillera Administrative Region,2004,69.46,72.54,,
+73,Region 1: Ilocos Region,2004,85.49,77.81,,
+74,Region 2: Cagayan Valley,2004,75.5,73.01,,
+75,Region 3: Central Luzon,2004,78.48,76.57,,
+76,Region 4A: CALABARZON,2004,77.96,74.93,,
+77,MIMAROPA: Southwestern Tagalog Region,2004,68.81,71.2,,
+78,Region 5: Bicol Region,2004,74.32,70.55,,
+79,Region 6: Western Visayas,2004,67.44,72.82,,
+80,Region 7: Central Visayas,2004,70.99,70.55,,
+81,Region 8: Eastern Visayas,2004,68.99,71.67,,
+82,Region 9: Zamboanga Peninsula,2004,54.02,66.29,,
+83,Region 10: Northern Mindanao,2004,58.06,61.21,,
+84,Region 11: Davao Region,2004,62.47,68.81,,
+85,Region 12: SOCCSKSARGEN,2004,60.58,76.91,,
+86,CARAGA: Cordillera Administrative Region,2004,59.32,71.9,,
+87,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2004,31.33,45.29,,
+88,PHILIPPINES,2005,68.11,61.66,,
+89,NCR: National Capital Region,2005,82.5,65.87,,
+90,CAR: Cordillera Administrative Region,2005,67.53,63.2,,
+91,Region 1: Ilocos Region,2005,85.48,72.09,,
+92,Region 2: Cagayan Valley,2005,76.4,68.82,,
+93,Region 3: Central Luzon,2005,80.16,70.26,,
+94,Region 4A: CALABARZON,2005,76.98,68.42,,
+95,MIMAROPA: Southwestern Tagalog Region,2005,67.17,52.76,,
+96,Region 5: Bicol Region,2005,71.69,54.25,,
+97,Region 6: Western Visayas,2005,66.3,61.21,,
+98,Region 7: Central Visayas,2005,69.3,53.43,,
+99,Region 8: Eastern Visayas,2005,58.44,54.1,,
+100,Region 9: Zamboanga Peninsula,2005,53.8,46.82,,
+101,Region 10: Northern Mindanao,2005,59.73,57.23,,
+102,Region 11: Davao Region,2005,56.59,51.38,,
+103,Region 12: SOCCSKSARGEN,2005,58.0,48.87,,
+104,CARAGA: Cordillera Administrative Region,2005,67.07,58.02,,
+105,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2005,34.76,53.0,,
+106,PHILIPPINES,2006,71.72,72.14,,
+107,NCR: National Capital Region,2006,88.48,71.62,,
+108,CAR: Cordillera Administrative Region,2006,74.99,83.69,,
+109,Region 1: Ilocos Region,2006,81.64,84.19,,
+110,Region 2: Cagayan Valley,2006,78.49,77.19,,
+111,Region 3: Central Luzon,2006,82.16,74.57,,
+112,Region 4A: CALABARZON,2006,81.83,80.09,,
+113,MIMAROPA: Southwestern Tagalog Region,2006,70.04,73.22,,
+114,Region 5: Bicol Region,2006,73.04,70.32,,
+115,Region 6: Western Visayas,2006,70.62,70.0,,
+116,Region 7: Central Visayas,2006,77.85,70.27,,
+117,Region 8: Eastern Visayas,2006,65.39,69.02,,
+118,Region 9: Zamboanga Peninsula,2006,58.6,70.95,,
+119,Region 10: Northern Mindanao,2006,65.87,66.38,,
+120,Region 11: Davao Region,2006,57.22,64.75,,
+121,Region 12: SOCCSKSARGEN,2006,62.07,55.93,,
+122,CARAGA: Cordillera Administrative Region,2006,64.23,69.92,,
+123,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2006,31.43,35.21,,
+124,PHILIPPINES,2007,73.06,75.37,,
+125,NCR: National Capital Region,2007,85.35,78.71,,
+126,CAR: Cordillera Administrative Region,2007,71.7,75.67,,
+127,Region 1: Ilocos Region,2007,82.71,82.34,,
+128,Region 2: Cagayan Valley,2007,78.06,78.96,,
+129,Region 3: Central Luzon,2007,80.68,76.58,,
+130,Region 4A: CALABARZON,2007,79.29,80.64,,
+131,MIMAROPA: Southwestern Tagalog Region,2007,68.06,72.59,,
+132,Region 5: Bicol Region,2007,74.36,74.05,,
+133,Region 6: Western Visayas,2007,71.87,75.52,,
+134,Region 7: Central Visayas,2007,78.38,72.59,,
+135,Region 8: Eastern Visayas,2007,69.51,69.68,,
+136,Region 9: Zamboanga Peninsula,2007,60.14,69.44,,
+137,Region 10: Northern Mindanao,2007,67.94,71.68,,
+138,Region 11: Davao Region,2007,65.49,70.45,,
+139,Region 12: SOCCSKSARGEN,2007,65.46,70.93,,
+140,CARAGA: Cordillera Administrative Region,2007,71.82,72.98,,
+141,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2007,41.29,65.36,,
+142,PHILIPPINES,2008,73.28,75.24,,
+143,NCR: National Capital Region,2008,85.27,79.6,,
+144,CAR: Cordillera Administrative Region,2008,75.81,82.38,,
+145,Region 1: Ilocos Region,2008,84.83,81.21,,
+146,Region 2: Cagayan Valley,2008,80.45,79.76,,
+147,Region 3: Central Luzon,2008,81.35,76.29,,
+148,Region 4A: CALABARZON,2008,81.62,81.0,,
+149,MIMAROPA: Southwestern Tagalog Region,2008,71.64,72.56,,
+150,Region 5: Bicol Region,2008,74.39,73.14,,
+151,Region 6: Western Visayas,2008,72.6,76.35,,
+152,Region 7: Central Visayas,2008,78.83,73.32,,
+153,Region 8: Eastern Visayas,2008,71.65,70.56,,
+154,Region 9: Zamboanga Peninsula,2008,58.77,68.74,,
+155,Region 10: Northern Mindanao,2008,68.67,70.38,,
+156,Region 11: Davao Region,2008,62.72,72.57,,
+157,Region 12: SOCCSKSARGEN,2008,66.01,68.24,,
+158,CARAGA: Cordillera Administrative Region,2008,71.89,73.64,,
+159,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2008,37.5,53.55,,
+160,PHILIPPINES,2009,72.18,73.55,,
+161,NCR: National Capital Region,2009,79.66,75.8,,
+162,CAR: Cordillera Administrative Region,2009,77.13,63.35,,
+163,Region 1: Ilocos Region,2009,83.09,80.39,,
+164,Region 2: Cagayan Valley,2009,78.25,77.96,,
+165,Region 3: Central Luzon,2009,81.87,76.14,,
+166,Region 4A: CALABARZON,2009,84.84,81.17,,
+167,MIMAROPA: Southwestern Tagalog Region,2009,69.38,73.13,,
+168,Region 5: Bicol Region,2009,74.45,73.61,,
+169,Region 6: Western Visayas,2009,72.54,76.27,,
+170,Region 7: Central Visayas,2009,76.84,73.12,,
+171,Region 8: Eastern Visayas,2009,69.46,69.88,,
+172,Region 9: Zamboanga Peninsula,2009,59.84,69.72,,
+173,Region 10: Northern Mindanao,2009,64.46,65.87,,
+174,Region 11: Davao Region,2009,66.97,68.78,,
+175,Region 12: SOCCSKSARGEN,2009,62.29,73.3,,
+176,CARAGA: Cordillera Administrative Region,2009,66.36,59.85,,
+177,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2009,37.23,65.4,,
+178,PHILIPPINES,2010,72.11,75.06,,
+179,NCR: National Capital Region,2010,82.85,75.91,,
+180,CAR: Cordillera Administrative Region,2010,71.79,75.15,,
+181,Region 1: Ilocos Region,2010,82.8,78.78,,
+182,Region 2: Cagayan Valley,2010,77.47,79.07,,
+183,Region 3: Central Luzon,2010,80.22,77.76,,
+184,Region 4A: CALABARZON,2010,82.14,79.79,,
+185,MIMAROPA: Southwestern Tagalog Region,2010,72.92,70.4,,
+186,Region 5: Bicol Region,2010,74.54,73.0,,
+187,Region 6: Western Visayas,2010,71.15,74.64,,
+188,Region 7: Central Visayas,2010,76.56,75.35,,
+189,Region 8: Eastern Visayas,2010,71.79,69.7,,
+190,Region 9: Zamboanga Peninsula,2010,58.72,68.29,,
+191,Region 10: Northern Mindanao,2010,65.47,79.94,,
+192,Region 11: Davao Region,2010,63.7,72.96,,
+193,Region 12: SOCCSKSARGEN,2010,63.35,72.34,,
+194,CARAGA: Cordillera Administrative Region,2010,71.21,71.04,,
+195,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2010,39.29,59.47,,
+196,PHILIPPINES,2011,71.01,74.4,,
+197,NCR: National Capital Region,2011,83.07,79.08,,
+198,CAR: Cordillera Administrative Region,2011,78.86,80.02,,
+199,Region 1: Ilocos Region,2011,82.39,75.02,,
+200,Region 2: Cagayan Valley,2011,73.08,77.84,,
+201,Region 3: Central Luzon,2011,80.32,75.21,,
+202,Region 4A: CALABARZON,2011,85.42,84.01,,
+203,MIMAROPA: Southwestern Tagalog Region,2011,72.38,72.82,,
+204,Region 5: Bicol Region,2011,74.78,71.43,,
+205,Region 6: Western Visayas,2011,74.61,75.46,,
+206,Region 7: Central Visayas,2011,80.37,74.56,,
+207,Region 8: Eastern Visayas,2011,66.11,67.78,,
+208,Region 9: Zamboanga Peninsula,2011,59.93,70.01,,
+209,Region 10: Northern Mindanao,2011,63.84,64.97,,
+210,Region 11: Davao Region,2011,61.62,68.63,,
+211,Region 12: SOCCSKSARGEN,2011,63.36,69.21,,
+212,CARAGA: Cordillera Administrative Region,2011,66.0,69.53,,
+213,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2011,23.46,55.98,,
+214,PHILIPPINES,2012,72.66,74.64,,
+215,NCR: National Capital Region,2012,80.03,76.68,,
+216,CAR: Cordillera Administrative Region,2012,78.23,78.43,,
+217,Region 1: Ilocos Region,2012,85.21,80.27,,
+218,Region 2: Cagayan Valley,2012,82.02,77.6,,
+219,Region 3: Central Luzon,2012,82.59,76.0,,
+220,Region 4A: CALABARZON,2012,84.81,82.32,,
+221,MIMAROPA: Southwestern Tagalog Region,2012,74.17,76.63,,
+222,Region 5: Bicol Region,2012,76.82,71.88,,
+223,Region 6: Western Visayas,2012,78.59,75.71,,
+224,Region 7: Central Visayas,2012,80.86,74.36,,
+225,Region 8: Eastern Visayas,2012,74.04,70.66,,
+226,Region 9: Zamboanga Peninsula,2012,55.49,64.56,,
+227,Region 10: Northern Mindanao,2012,63.25,72.22,,
+228,Region 11: Davao Region,2012,64.52,72.22,,
+229,Region 12: SOCCSKSARGEN,2012,66.0,71.76,,
+230,CARAGA: Cordillera Administrative Region,2012,72.38,69.78,,
+231,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2012,26.6,52.55,,
+232,PHILIPPINES,2013,77.67,76.25,,
+233,NCR: National Capital Region,2013,78.72,76.33,,
+234,CAR: Cordillera Administrative Region,2013,82.61,76.34,,
+235,Region 1: Ilocos Region,2013,91.14,82.48,,
+236,Region 2: Cagayan Valley,2013,87.88,81.99,,
+237,Region 3: Central Luzon,2013,90.8,82.98,,
+238,Region 4A: CALABARZON,2013,72.54,77.92,,
+239,MIMAROPA: Southwestern Tagalog Region,2013,78.06,76.75,,
+240,Region 5: Bicol Region,2013,84.95,75.48,,
+241,Region 6: Western Visayas,2013,85.68,78.34,,
+242,Region 7: Central Visayas,2013,85.82,78.45,,
+243,Region 8: Eastern Visayas,2013,80.9,74.06,,
+244,Region 9: Zamboanga Peninsula,2013,60.78,67.75,,
+245,Region 10: Northern Mindanao,2013,72.12,69.11,,
+246,Region 11: Davao Region,2013,75.51,71.89,,
+247,Region 12: SOCCSKSARGEN,2013,73.6,73.9,,
+248,CARAGA: Cordillera Administrative Region,2013,80.73,73.4,,
+249,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2013,39.16,56.17,,
+250,PHILIPPINES,2014,83.74,77.77,,
+251,NCR: National Capital Region,2014,74.71,77.27,,
+252,CAR: Cordillera Administrative Region,2014,86.43,76.91,,
+253,Region 1: Ilocos Region,2014,94.54,83.57,,
+254,Region 2: Cagayan Valley,2014,87.06,79.35,,
+255,Region 3: Central Luzon,2014,88.93,79.23,,
+256,Region 4A: CALABARZON,2014,92.29,82.27,,
+257,MIMAROPA: Southwestern Tagalog Region,2014,86.88,77.44,,
+258,Region 5: Bicol Region,2014,86.25,76.37,,
+259,Region 6: Western Visayas,2014,90.09,81.87,,
+260,Region 7: Central Visayas,2014,86.09,75.77,,
+261,Region 8: Eastern Visayas,2014,85.37,69.16,,
+262,Region 9: Zamboanga Peninsula,2014,92.86,77.2,,
+263,Region 10: Northern Mindanao,2014,82.57,76.94,,
+264,Region 11: Davao Region,2014,83.34,79.76,,
+265,Region 12: SOCCSKSARGEN,2014,93.31,84.46,,
+266,CARAGA: Cordillera Administrative Region,2014,86.86,77.51,,
+267,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2014,35.33,48.73,,
+268,PHILIPPINES,2015,84.02,74.03,,
+269,NCR: National Capital Region,2015,82.29,74.23,,
+270,CAR: Cordillera Administrative Region,2015,86.22,69.97,,
+271,Region 1: Ilocos Region,2015,91.5,76.44,,
+272,Region 2: Cagayan Valley,2015,89.0,73.68,,
+273,Region 3: Central Luzon,2015,89.14,72.44,,
+274,Region 4A: CALABARZON,2015,88.46,81.56,,
+275,MIMAROPA: Southwestern Tagalog Region,2015,90.21,76.6,,
+276,Region 5: Bicol Region,2015,85.44,69.45,,
+277,Region 6: Western Visayas,2015,88.94,74.79,,
+278,Region 7: Central Visayas,2015,88.49,75.3,,
+279,Region 8: Eastern Visayas,2015,87.94,70.14,,
+280,Region 9: Zamboanga Peninsula,2015,79.7,70.65,,
+281,Region 10: Northern Mindanao,2015,83.98,72.1,,
+282,Region 11: Davao Region,2015,88.84,73.44,,
+283,Region 12: SOCCSKSARGEN,2015,83.68,73.0,,
+284,CARAGA: Cordillera Administrative Region,2015,84.24,70.56,,
+285,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2015,37.15,63.99,,
+286,PHILIPPINES,2016,93.06,80.91,,6518.0
+287,NCR: National Capital Region,2016,85.97,80.29,,610.0
+288,CAR: Cordillera Administrative Region,2016,93.51,79.78,,201.0
+289,Region 1: Ilocos Region,2016,97.41,86.57,,474.0
+290,Region 2: Cagayan Valley,2016,95.01,81.46,,270.0
+291,Region 3: Central Luzon,2016,98.05,84.85,,280.0
+292,Region 4A: CALABARZON,2016,99.53,88.85,,833.0
+293,MIMAROPA: Southwestern Tagalog Region,2016,92.05,78.7,,139.0
+294,Region 5: Bicol Region,2016,94.59,76.15,,467.0
+295,Region 6: Western Visayas,2016,94.76,81.92,,357.0
+296,Region 7: Central Visayas,2016,94.93,78.33,,441.0
+297,Region 8: Eastern Visayas,2016,94.25,75.31,,708.0
+298,Region 9: Zamboanga Peninsula,2016,85.75,72.42,,356.0
+299,Region 10: Northern Mindanao,2016,91.92,79.79,,585.0
+300,Region 11: Davao Region,2016,92.22,78.87,,294.0
+301,Region 12: SOCCSKSARGEN,2016,86.06,74.41,,216.0
+302,CARAGA: Cordillera Administrative Region,2016,92.26,77.2,,67.0
+303,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2016,65.47,78.67,,220.0
+304,PHILIPPINES,2017,92.41,84.32,,11159.0
+305,NCR: National Capital Region,2017,94.65,90.62,,1028.0
+306,CAR: Cordillera Administrative Region,2017,91.64,81.23,,302.0
+307,Region 1: Ilocos Region,2017,95.45,87.82,,455.0
+308,Region 2: Cagayan Valley,2017,93.59,83.81,,612.0
+309,Region 3: Central Luzon,2017,96.02,85.96,,262.0
+310,Region 4A: CALABARZON,2017,98.44,90.72,,1067.0
+311,MIMAROPA: Southwestern Tagalog Region,2017,93.17,83.89,,523.0
+312,Region 5: Bicol Region,2017,93.22,83.19,,940.0
+313,Region 6: Western Visayas,2017,94.12,84.7,,997.0
+314,Region 7: Central Visayas,2017,92.16,83.88,,965.0
+315,Region 8: Eastern Visayas,2017,93.32,79.29,,1307.0
+316,Region 9: Zamboanga Peninsula,2017,89.73,78.16,,690.0
+317,Region 10: Northern Mindanao,2017,90.07,79.03,,607.0
+318,Region 11: Davao Region,2017,92.11,80.17,,356.0
+319,Region 12: SOCCSKSARGEN,2017,91.08,79.86,,596.0
+320,CARAGA: Cordillera Administrative Region,2017,90.94,82.42,,107.0
+321,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2017,54.17,62.13,,345.0
+322,PHILIPPINES,2018,97.15,88.84,81.01,10118.0
+323,NCR: National Capital Region,2018,99.04,92.8,82.64,1280.0
+324,CAR: Cordillera Administrative Region,2018,97.52,87.01,81.07,166.0
+325,Region 1: Ilocos Region,2018,98.1,90.89,83.26,475.0
+326,Region 2: Cagayan Valley,2018,97.56,88.52,82.32,447.0
+327,Region 3: Central Luzon,2018,99.13,90.41,81.76,354.0
+328,Region 4A: CALABARZON,2018,99.8,93.22,81.66,1440.0
+329,MIMAROPA: Southwestern Tagalog Region,2018,94.8,83.17,70.69,709.0
+330,Region 5: Bicol Region,2018,96.43,86.43,78.34,543.0
+331,Region 6: Western Visayas,2018,97.03,88.53,79.46,598.0
+332,Region 7: Central Visayas,2018,98.59,92.29,86.49,667.0
+333,Region 8: Eastern Visayas,2018,94.13,82.62,75.54,500.0
+334,Region 9: Zamboanga Peninsula,2018,97.02,82.52,75.14,426.0
+335,Region 10: Northern Mindanao,2018,94.78,86.28,78.32,658.0
+336,Region 11: Davao Region,2018,96.65,84.85,78.53,714.0
+337,Region 12: SOCCSKSARGEN,2018,94.71,81.79,74.83,493.0
+338,CARAGA: Cordillera Administrative Region,2018,95.36,85.41,78.16,165.0
+339,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2018,76.72,93.81,68.08,483.0
+340,PHILIPPINES,2019,96.56,85.75,76.71,10855.0
+341,NCR: National Capital Region,2019,94.97,87.31,76.28,1409.0
+342,CAR: Cordillera Administrative Region,2019,95.81,81.69,76.25,260.0
+343,Region 1: Ilocos Region,2019,98.97,89.12,80.57,501.0
+344,Region 2: Cagayan Valley,2019,97.51,87.7,80.76,686.0
+345,Region 3: Central Luzon,2019,98.67,89.7,77.12,839.0
+346,Region 4A: CALABARZON,2019,99.45,90.12,79.68,817.0
+347,MIMAROPA: Southwestern Tagalog Region,2019,96.65,85.19,72.04,413.0
+348,Region 5: Bicol Region,2019,95.6,82.52,72.83,571.0
+349,Region 6: Western Visayas,2019,96.7,85.19,77.24,317.0
+350,Region 7: Central Visayas,2019,96.3,83.76,77.4,769.0
+351,Region 8: Eastern Visayas,2019,95.48,81.77,73.49,429.0
+352,Region 9: Zamboanga Peninsula,2019,94.94,77.27,68.39,557.0
+353,Region 10: Northern Mindanao,2019,94.44,82.2,73.29,905.0
+354,Region 11: Davao Region,2019,95.29,81.51,72.25,910.0
+355,Region 12: SOCCSKSARGEN,2019,96.01,82.51,73.02,338.0
+356,CARAGA: Cordillera Administrative Region,2019,95.0,83.69,73.02,1034.0
+357,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2019,74.98,86.59,66.24,100.0
+358,PHILIPPINES,2020,82.51,82.11168396598917,69.31776164979968,4023.0
+359,NCR: National Capital Region,2020,69.36,73.64527371864305,56.25539729251835,782.0
+360,CAR: Cordillera Administrative Region,2020,94.56,87.86047461554662,81.1514538910687,92.0
+361,Region 1: Ilocos Region,2020,97.32,91.96226052393231,84.45021844490022,375.0
+362,Region 2: Cagayan Valley,2020,98.56,95.80683587831814,90.35610770565052,215.0
+363,Region 3: Central Luzon,2020,86.62,84.01234849712648,72.07268501608172,277.0
+364,Region 4A: CALABARZON,2020,78.03,81.49789878312576,64.19993874135481,177.0
+365,MIMAROPA: Southwestern Tagalog Region,2020,90.55,84.39369684032266,72.90367006636758,162.0
+366,Region 5: Bicol Region,2020,77.47,67.84886625240013,51.05055270405532,292.0
+367,Region 6: Western Visayas,2020,93.46,93.50669345700295,85.19694765122162,111.0
+368,Region 7: Central Visayas,2020,82.69,79.18644440770781,67.31807950980419,267.0
+369,Region 8: Eastern Visayas,2020,95.23336964130102,89.4398617982444,82.50550388063633,227.0
+370,Region 9: Zamboanga Peninsula,2020,84.45786746776032,87.12404365636907,77.00337843536857,148.0
+371,Region 10: Northern Mindanao,2020,82.90732492745173,83.11686557286312,74.57098728626106,224.0
+372,Region 11: Davao Region,2020,73.48702482127726,74.90926268733105,58.74642177444313,332.0
+373,Region 12: SOCCSKSARGEN,2020,87.07055042287614,82.58061375099453,73.87811305362611,144.0
+374,CARAGA: Cordillera Administrative Region,2020,93.41611935808768,90.06976318070897,82.41924267798913,64.0
+375,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2020,63.98043974848213,72.76109863685919,56.88636333310178,134.0
+376,PHILIPPINES,2021,,,,7746.0
+377,NCR: National Capital Region,2021,,,,1985.0
+378,CAR: Cordillera Administrative Region,2021,,,,199.0
+379,Region 1: Ilocos Region,2021,,,,327.0
+380,Region 2: Cagayan Valley,2021,,,,240.0
+381,Region 3: Central Luzon,2021,,,,471.0
+382,Region 4A: CALABARZON,2021,,,,647.0
+383,MIMAROPA: Southwestern Tagalog Region,2021,,,,255.0
+384,Region 5: Bicol Region,2021,,,,339.0
+385,Region 6: Western Visayas,2021,,,,426.0
+386,Region 7: Central Visayas,2021,,,,532.0
+387,Region 8: Eastern Visayas,2021,,,,416.0
+388,Region 9: Zamboanga Peninsula,2021,,,,446.0
+389,Region 10: Northern Mindanao,2021,,,,378.0
+390,Region 11: Davao Region,2021,,,,543.0
+391,Region 12: SOCCSKSARGEN,2021,,,,153.0
+392,CARAGA: Cordillera Administrative Region,2021,,,,149.0
+393,BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2021,,,,240.0
