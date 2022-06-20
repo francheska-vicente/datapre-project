@@ -7,6 +7,12 @@ In this notebook, 27 different datasets from the Philippine Statistics Authority
 ## Why is this dataset needed?
 
 ## Scope of this dataset
+The open-sourced dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
+
+As one of the dataset’s goals was to help determine what goals each region in the Philippines needs to focus on, the type of datasets that were searched for was datasets regarding SDGs that were divided per region per year. However, as OpenSTAT only contains data for the Philippines as a whole (for datasets that are for the targets of the SDGs) two divisions of the PSA have been contacted: the Knowledge Management and Communications Division and the SDG division. 
+
+This implies that if the PSA did not collect or release the target for a specific SDG per region, this dataset cannot include these as there are no official data.
+Through this, fourteen datasets, which correspond to one target each, were received and collated. Although the SDG was only formally established in 2015, some of the datasets started as far back as 2001.
 
 ## Data Dictionary
 
