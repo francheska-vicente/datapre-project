@@ -4,6 +4,12 @@ was intended to be achieved by 2030. It was said that it would pave the way to "
 
 In this notebook, 27 different datasets from the Philippine Statistics Authority, the government agency assigned to update the Philippine's data on this goals, would be combined. Fifteen (15) of these datasets are directly about the SDG, while others are indirectly connected to the SDGs.
 
+## Why is this dataset needed?
+
+## Scope of this dataset
+
+## Data Dictionary
+
 ## Setting up
 ### How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://github.com/francheska-vicente/datapre-project.git).
