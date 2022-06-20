@@ -1,6 +1,5 @@
 # Progress of the Philippines' Sustainable Development Goals (SDGs): An Open-Source Dataset
-In 2015, the United Nations General Assembly created 17 interlinked global goals that
-was intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals was named the Sustainable Development Goals (SDG).
+In 2015, the United Nations General Assembly created 17 interlinked global goals that were intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals were named the Sustainable Development Goals (SDG).
 
 These goals were embraced by all member states of the United Nations, which includes the Philippines, as they believe that these goals would bring prosperity not only to their citizens but to the whole planet. The creation of these goals recognizes that to end poverty, other problems must also be addressed. These problems include improving the health and education system and reducing all forms of inequalities. 
 
