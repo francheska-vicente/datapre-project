@@ -16,8 +16,7 @@ Through this, fourteen datasets, which correspond to one target each, were recei
 
 ## Data Dictionary
 
-## Setting up
-### How to set up and run the project locally through JupyterNotebook or JupyterLab
+## How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://github.com/francheska-vicente/datapre-project.git).
 2. Launch `Jupyter notebook` or `JupyterLab`.
 3. Navigate to the project folder containing N01-Group1.ipynb.
@@ -25,10 +24,13 @@ Through this, fourteen datasets, which correspond to one target each, were recei
 5. On the **Kernel** Tab, click on **Restart & Run All**.
 6. After using this notebook, open `N01-Group1-EDA.ipynb`. This contains the Exploratory Data Analysis.
 
+## Downloading the Open-sourced Dataset
+The open-sourced dataset, which is composed of different files corresponding to the SDGs and a combined dataset, can be download through this [link](https://drive.google.com/file/d/1Mm0pkZuhfwtnd_Ov45LR3arYLH4e-2Rv/view?usp=sharing).
+
 ## Authors
-- **Cerilla, Vincent Carlo Lopez** <br/>
+- **Cerilla, Vincent Carlo L.** <br/>
 vincent_cerilla@dlsu.edu.ph
-- **Marcelo, Andrea Jean Capistrano**  <br/>
+- **Marcelo, Andrea Jean C.**  <br/>
 andrea_marcelo@dlsu.edu.ph
 - **Vicente, Francheska Josefa**  <br/>
 francheska_vicente@dlsu.edu.ph
