@@ -6,7 +6,7 @@ These goals were embraced by all member states of the United Nations, which incl
 In this notebook, 27 different datasets from the Philippine Statistics Authority, the government agency assigned to update the Philippine's data on this goals, would be combined. Fifteen (15) of these datasets are directly about the SDG, while others are indirectly connected to the SDGs.
 
 ## Importance of the Dataset
-As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. xploring the given dataset can help in determining which SDGs each region needs to focus on.
+As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. Exploring the given dataset can help in determining which SDGs each region needs to focus on.
 
 ## Scope of the Dataset
 The open-sourced dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
