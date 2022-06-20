@@ -1,13 +1,12 @@
 # Progress of the Philippines' Sustainable Development Goals (SDGs): An Open-Source Dataset
-In 2015, the United Nations General Assembly created 17 interlinked global goals that
-was intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals was named the Sustainable Development Goals (SDG).
+In 2015, the United Nations General Assembly created 17 interlinked global goals that were intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals were named the Sustainable Development Goals (SDG).
 
 These goals were embraced by all member states of the United Nations, which includes the Philippines, as they believe that these goals would bring prosperity not only to their citizens but to the whole planet. The creation of these goals recognizes that to end poverty, other problems must also be addressed. These problems include improving the health and education system and reducing all forms of inequalities. 
 
 In this notebook, 27 different datasets from the Philippine Statistics Authority, the government agency assigned to update the Philippine's data on this goals, would be combined. Fifteen (15) of these datasets are directly about the SDG, while others are indirectly connected to the SDGs.
 
 ## Importance of the Dataset
-As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. xploring the given dataset can help in determining which SDGs each region needs to focus on.
+As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. Exploring the given dataset can help in determining which SDGs each region needs to focus on.
 
 ## Scope of the Dataset
 The open-sourced dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
