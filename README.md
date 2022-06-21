@@ -1,52 +1,41 @@
-# Progress of the Philippines' Sustainable Development Goals: An Open-Source Dataset
-In 2015, the United Nations General Assembly created 17 interlinked global goals that
-was intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals was named the Sustainable Development Goals (SDG).
+# Progress of the Philippines' Sustainable Development Goals (SDGs): An Open-Source Dataset
+In 2015, the United Nations General Assembly created 17 interlinked global goals that were intended to be achieved by 2030. It was said that it would pave the way to "a better and more sustainable future for all". The interlinked global goals were named the Sustainable Development Goals (SDG).
+
+These goals were embraced by all member states of the United Nations, which includes the Philippines, as they believe that these goals would bring prosperity not only to their citizens but to the whole planet. The creation of these goals recognizes that to end poverty, other problems must also be addressed. These problems include improving the health and education system and reducing all forms of inequalities. 
 
 In this notebook, 27 different datasets from the Philippine Statistics Authority, the government agency assigned to update the Philippine's data on this goals, would be combined. Fifteen (15) of these datasets are directly about the SDG, while others are indirectly connected to the SDGs.
-## Project Files
-|     Files                                                             | Description                                                                                                                                                |
-|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| N01-Group1.ipynb                                                      | Jupyter Notebook                                                                                |
-| 1.2.1.csv                                                             | Proportion of population living below the national poverty line by sex age                                                                                 |
-| 1.4.1p5.csv                                                           | Net Enrolment Rate in elementary      														     |
-| 1.4.1p6.csv                                                           | Net Enrolment Rate in secondary education                                         									     |
-| 1.5.4.csv                		                                | Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies |
-| 10.1.1.csv              		                                | Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population	      		     |
-| 14.5.1.csv     			                                | Coverage of protected areas in relation to marine areas                    										     |		
-| 16.1.1.csv                                                            | Number of victims of intentional homicide per 100,000      												     |
-| 16.1.s1.csv                                                           | Number of murder cases      																     |
-| 3.4.1.csv                                                             | Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease     					             |
-| 3.7.1.csv                                                             | Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied [provided] with modern methods                |
-| 3.7.2.csv                                                             | Adolescent birth rate aged 15-19 years per 1,000 women in that age group 										     |
-| 4.1.s1.csv                                                            | Completion Rate of elementary and secondary students        											             |
-| 4.c.s2.csv                                                            | Number of Technical-Vocational Education and Training (TVET) trainers trained                        							     |
-| 7.1.1.csv                                                             | Proportion of population with access to electricit         												     |
-| 8.1.1.csv                                                             | Annual growth rate of real GDP per capita	      													     |
-| Changes in Inventories, by Region.csv                                 | Changes in Inventories, by Region                                         										     |
-| Current Health Expenditure by Region, Growth Rates.csv                | Current Health Expenditure by Region, Growth Rates 												             |
-| Current Health Expenditure by Region.csv              		| Current Health Expenditure by Region        														     |
-| Government Final Consumption Expenditure, by Region, Growth Rates.csv | Government Final Consumption Expenditure, by Region, Growth Rates                       							 	     |
-| Government Final Consumption Expenditure, by Region, Percent Share.csv| Government Final Consumption Expenditure, by Region, Percent Share         										     |
-| Gross Capital Formation, by Region.csv                                | Gross Capital Formation, by Region      														     |
-| Gross Regional Domestic Product, by Region.csv                        | Gross Regional Domestic Product, by Region                                        									     |
-| Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease.csv|  Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease                    |
-| Population, by Region.csv                                             | Population, by Region        																     |
-| Primary Drop-out rates by Region, Sex and Year.csv                    | Primary Drop-out rates by Region, Sex and Year                        										     |
-| Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied [provided] with modern methods.csv  | Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied [provided] with modern methods                     		     |
-| Quarterly Producer Price Index for Agriculture (2018=100) First Quarter 2018 to Third Quarter 2021.csv          | Quarterly Producer Price Index for Agriculture, by Commodity Group and by Region (2018=100)First Quarter 2018 to Third Quarter 2021							     |
 
-## Setting up
-### How to set up and run the project locally through JupyterNotebook or JupyterLab
+## Importance of the Dataset
+As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. Exploring the given dataset can help in determining which SDGs each region needs to focus on.
+
+## Scope of the Dataset
+The open-sourced dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
+
+Due to the goal of this dataset, the type of datasets that were searched for was datasets regarding SDGs that were divided per region per year. However, as OpenSTAT only contains data for the Philippines as a whole (for datasets that are for the targets of the SDGs) two divisions of the PSA have been contacted: the Knowledge Management and Communications Division and the SDG division. 
+
+This implies that if the PSA did not collect or release the target for a specific SDG per region, this dataset cannot include these as there are no official data.
+Through this, fourteen datasets, which correspond to one target each, were received and collated. Although the SDG was only formally established in 2015, some of the datasets started as far back as 2001.
+
+Thus, these datasets only include data for the regions of the Philippines and Philippines as a whole. The years differs for some of the columns, but the total range is from 2000 to 2021.
+
+## Data Dictionary
+The Data Dictionary or the Codebook of this dataset can be accessed through this [link]().
+
+## How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://github.com/francheska-vicente/datapre-project.git).
 2. Launch `Jupyter notebook` or `JupyterLab`.
 3. Navigate to the project folder containing N01-Group1.ipynb.
-4. Open `N01-Group1.ipynb`.
-5. Now, you would be able to use the application!
+4. Open `N01-Group1.ipynb`. This contains the data pre-processing and cleaning.
+5. On the **Kernel** Tab, click on **Restart & Run All**.
+6. After using this notebook, open `N01-Group1-EDA.ipynb`. This contains the Exploratory Data Analysis.
+
+## Downloading the Open-sourced Dataset
+The open-sourced dataset, which is composed of different files corresponding to the SDGs and a combined dataset, can be download through this [Google Drive link](https://drive.google.com/file/d/1Mm0pkZuhfwtnd_Ov45LR3arYLH4e-2Rv/view?usp=sharing).
 
 ## Authors
-- **Cerilla, Vincent Carlo Lopez** <br/>
+- **Cerilla, Vincent Carlo L.** <br/>
 vincent_cerilla@dlsu.edu.ph
-- **Marcelo, Andrea Jean Capistrano**  <br/>
+- **Marcelo, Andrea Jean C.**  <br/>
 andrea_marcelo@dlsu.edu.ph
 - **Vicente, Francheska Josefa**  <br/>
 francheska_vicente@dlsu.edu.ph
