@@ -22,7 +22,7 @@ Thus, these datasets only include data for the regions of the Philippines and Ph
 The Data Dictionary or the Codebook of this dataset can be accessed through this [link]().
 
 ## How to set up and run the project locally through JupyterNotebook or JupyterLab
-1. Extract the folder from the zipped file that you can download through this DownGit [link]([https://github.com/francheska-vicente/datapre-project.git](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/francheska-vicente/datapre-project)).
+1. Extract the folder from the zipped file that you can download through this DownGit [link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/francheska-vicente/datapre-project).
 2. Launch `Jupyter notebook` or `JupyterLab`.
 3. Navigate to the project folder containing N01-Group1.ipynb.
 4. Open `N01-Group1.ipynb`. This contains the data pre-processing and cleaning.
