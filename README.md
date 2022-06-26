@@ -19,7 +19,7 @@ Through this, fourteen datasets, which correspond to one target each, were recei
 Thus, these datasets only include data for the regions of the Philippines and Philippines as a whole. The years differs for some of the columns, but the total range is from 2000 to 2021.
 
 ## Data Dictionary
-The Data Dictionary or the Codebook of this dataset can be accessed through this [link]().
+The Data Dictionary or the Codebook of this dataset can be accessed through this [link](https://drive.google.com/file/d/1pY9zVrpjaDBiMtpuLTfnfFpRkH9BTreB/view?usp=sharing).
 
 ## How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/francheska-vicente/datapre-project).
