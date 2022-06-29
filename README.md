@@ -30,7 +30,7 @@ The Data Dictionary or the Codebook of this dataset can be accessed through this
 6. After using this notebook, open `N01-Group1-EDA.ipynb`. This contains the Exploratory Data Analysis.
 
 ## Downloading the Open-sourced Dataset
-The open-sourced dataset, which is composed of different files corresponding to the SDGs and a combined dataset, can be download through this [Google Drive link](https://drive.google.com/file/d/1Mm0pkZuhfwtnd_Ov45LR3arYLH4e-2Rv/view?usp=sharing).
+The open-sourced dataset, which is composed of different files corresponding to the SDGs and a combined dataset, can be download through this [Google Drive link](https://drive.google.com/file/d/17x4BKqTD7vx8-MIPC_KnQF81ImN_FkwX/view?usp=sharing).
 
 ## Authors
 - **Cerilla, Vincent Carlo L.** <br/>
