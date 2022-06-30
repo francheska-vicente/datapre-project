@@ -9,7 +9,7 @@ In this notebook, **27** different datasets from the **Philippine Statistics Aut
 As this dataset compiles, cleans and pre-process all of the available regional datasets related to the SDG of the Philippines, this dataset can help in determining if there are relationships between the different indicators. Additionally, it provides an easier way to access and to explore information and data on the Sustainable Development Goals of the Philippines. Exploring the given dataset can help in determining which SDGs each region needs to focus on.
 
 ## Scope of the Dataset
-The open-sourced dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
+The open-source dataset—the Progress of the Sustainable Development Goals (SDGs) of the Philippines—was a result of scouring the official open data platform of the Philippine Statistics Authority (PSA), the OpenSTAT.
 
 Due to the goal of this dataset, the type of datasets that were searched for was datasets regarding SDGs that were divided per region per year. However, as OpenSTAT only contains data for the Philippines as a whole (for datasets that are for the targets of the SDGs) two divisions of the PSA have been contacted: the Knowledge Management and Communications Division and the SDG division. 
 
@@ -19,7 +19,9 @@ Through this, fourteen datasets, which correspond to one indicator each, were re
 Thus, these datasets only include data for the **regions of the Philippines** and **Philippines** as a whole. The years differ for some of the columns, but the total range is from **2000 to 2021**.
 
 ## Data Dictionary
-The Data Dictionary or the Codebook of this dataset can be accessed through this [link](https://drive.google.com/file/d/1pY9zVrpjaDBiMtpuLTfnfFpRkH9BTreB/view?usp=sharing).
+The Data Dictionary or the Codebook of this dataset can be accessed through this [link](https://drive.google.com/file/d/1pY9zVrpjaDBiMtpuLTfnfFpRkH9BTreB/view?usp=sharing). 
+
+This contains the **data collection methodology** and the **coding rules** for this open-source dataset. This includes a description of each variable used in this dataset as well as a brief explanation of how each source dataset was pre-processed. In addition, the Sustainable Development Goals are briefly discussed in this document.
 
 ## How to set up and run the project locally through JupyterNotebook or JupyterLab
 1. Extract the folder from the zipped file that you can download through this DownGit [link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/francheska-vicente/datapre-project).
@@ -29,10 +31,10 @@ The Data Dictionary or the Codebook of this dataset can be accessed through this
 5. On the **Kernel** Tab, click on **Restart & Run All**.
 6. After using this notebook, open `N01-Group1-EDA.ipynb`. This contains the **Exploratory Data Analysis**.
 
-## Downloading the Open-sourced Dataset
-The open-sourced dataset, which is composed of **12 different files** corresponding to the SDGs and combined datasets, can be downloaded through this [Google Drive link](https://drive.google.com/file/d/17x4BKqTD7vx8-MIPC_KnQF81ImN_FkwX/view?usp=sharing).
+## Downloading the Open-source Dataset
+The open-source dataset, which is composed of **12 different files** corresponding to the SDGs and combined datasets, can be downloaded through this [Google Drive link](https://drive.google.com/file/d/17x4BKqTD7vx8-MIPC_KnQF81ImN_FkwX/view?usp=sharing).
 
-The open-sourced dataset (`data_output`) includes the following:
+The open-source dataset (`data_output`) includes the following:
 - `combined_data.csv` combination of all datasets (SDG and non-SDG datasets)
 - `supplementary_datasets.csv` combination of all non-SDG datasets
 - Combined Datasets Per SDG
