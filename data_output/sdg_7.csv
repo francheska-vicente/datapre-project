@@ -15,7 +15,7 @@ Region 9: Zamboanga Peninsula,2009,99.84
 Region 10: Northern Mindanao,2009,96.44
 Region 11: Davao Region,2009,100.0
 Region 12: SOCCSKSARGEN,2009,99.75
-CARAGA: Cordillera Administrative Region,2009,99.85
+CARAGA: CARAGA Administrative Region,2009,99.85
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2009,97.8
 PHILIPPINES,2010,99.89
 NCR: National Capital Region,2010,100.0
@@ -33,7 +33,7 @@ Region 9: Zamboanga Peninsula,2010,100.0
 Region 10: Northern Mindanao,2010,100.0
 Region 11: Davao Region,2010,100.0
 Region 12: SOCCSKSARGEN,2010,100.0
-CARAGA: Cordillera Administrative Region,2010,100.0
+CARAGA: CARAGA Administrative Region,2010,100.0
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2010,99.27
 PHILIPPINES,2011,70.18081236272779
 NCR: National Capital Region,2011,80.70232002328778
@@ -51,7 +51,7 @@ Region 9: Zamboanga Peninsula,2011,48.78483819929952
 Region 10: Northern Mindanao,2011,66.19156915932352
 Region 11: Davao Region,2011,54.57616755308824
 Region 12: SOCCSKSARGEN,2011,43.287409805834606
-CARAGA: Cordillera Administrative Region,2011,76.98009870791573
+CARAGA: CARAGA Administrative Region,2011,76.98009870791573
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2011,26.56109339407745
 PHILIPPINES,2012,76.6945712437693
 NCR: National Capital Region,2012,99.252310111609
@@ -69,7 +69,7 @@ Region 9: Zamboanga Peninsula,2012,50.77889078333517
 Region 10: Northern Mindanao,2012,67.29184548908606
 Region 11: Davao Region,2012,54.84543843563957
 Region 12: SOCCSKSARGEN,2012,43.49284981552763
-CARAGA: Cordillera Administrative Region,2012,81.41206497589926
+CARAGA: CARAGA Administrative Region,2012,81.41206497589926
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2012,27.797789117536976
 PHILIPPINES,2013,79.85346601580922
 NCR: National Capital Region,2013,97.73778718196766
@@ -87,7 +87,7 @@ Region 9: Zamboanga Peninsula,2013,51.49723575931385
 Region 10: Northern Mindanao,2013,62.42598500126233
 Region 11: Davao Region,2013,74.78317271363537
 Region 12: SOCCSKSARGEN,2013,45.97060052679032
-CARAGA: Cordillera Administrative Region,2013,87.86464499142903
+CARAGA: CARAGA Administrative Region,2013,87.86464499142903
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2013,33.21606181122249
 PHILIPPINES,2014,80.9
 NCR: National Capital Region,2014,98.02709941895267
@@ -105,7 +105,7 @@ Region 9: Zamboanga Peninsula,2014,55.045772780033296
 Region 10: Northern Mindanao,2014,67.13743995110931
 Region 11: Davao Region,2014,70.16317548649826
 Region 12: SOCCSKSARGEN,2014,51.87870686999992
-CARAGA: Cordillera Administrative Region,2014,79.33990145943837
+CARAGA: CARAGA Administrative Region,2014,79.33990145943837
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2014,32.146754415070774
 PHILIPPINES,2015,89.62
 NCR: National Capital Region,2015,98.0236435177892
@@ -123,7 +123,7 @@ Region 9: Zamboanga Peninsula,2015,71.0872493494566
 Region 10: Northern Mindanao,2015,77.39253702260326
 Region 11: Davao Region,2015,86.91525818706664
 Region 12: SOCCSKSARGEN,2015,65.69149246403276
-CARAGA: Cordillera Administrative Region,2015,92.5365566037736
+CARAGA: CARAGA Administrative Region,2015,92.5365566037736
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2015,38.51442063770831
 PHILIPPINES,2016,90.65
 NCR: National Capital Region,2016,98.2594430821432
@@ -141,7 +141,7 @@ Region 9: Zamboanga Peninsula,2016,74.1379520830154
 Region 10: Northern Mindanao,2016,81.67300621702528
 Region 11: Davao Region,2016,73.09342361294937
 Region 12: SOCCSKSARGEN,2016,70.60136144568145
-CARAGA: Cordillera Administrative Region,2016,96.10087214085895
+CARAGA: CARAGA Administrative Region,2016,96.10087214085895
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2016,40.91513276537529
 PHILIPPINES,2017,91.09
 NCR: National Capital Region,2017,103.02319361347078
@@ -159,7 +159,7 @@ Region 9: Zamboanga Peninsula,2017,63.2422402370314
 Region 10: Northern Mindanao,2017,88.96847244635062
 Region 11: Davao Region,2017,68.2475258203881
 Region 12: SOCCSKSARGEN,2017,64.05366048654206
-CARAGA: Cordillera Administrative Region,2017,107.16947163516954
+CARAGA: CARAGA Administrative Region,2017,107.16947163516954
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2017,27.27177478501253
 PHILIPPINES,2018,96.12
 NCR: National Capital Region,2018,107.61481972474664
@@ -177,7 +177,7 @@ Region 9: Zamboanga Peninsula,2018,68.90852194454837
 Region 10: Northern Mindanao,2018,92.36390971964536
 Region 11: Davao Region,2018,83.68633865580261
 Region 12: SOCCSKSARGEN,2018,70.42724711615335
-CARAGA: Cordillera Administrative Region,2018,115.32059518959218
+CARAGA: CARAGA Administrative Region,2018,115.32059518959218
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2018,34.8264384213029
 PHILIPPINES,2019,92.96
 NCR: National Capital Region,2019,100.0
@@ -195,7 +195,7 @@ Region 9: Zamboanga Peninsula,2019,72.35588743510853
 Region 10: Northern Mindanao,2019,92.50294123569292
 Region 11: Davao Region,2019,86.02051363060008
 Region 12: SOCCSKSARGEN,2019,81.76228728061827
-CARAGA: Cordillera Administrative Region,2019,100.0
+CARAGA: CARAGA Administrative Region,2019,100.0
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2019,35.80486310919832
 PHILIPPINES,2020,94.49
 NCR: National Capital Region,2020,100.0
@@ -213,5 +213,5 @@ Region 9: Zamboanga Peninsula,2020,78.3
 Region 10: Northern Mindanao,2020,94.81
 Region 11: Davao Region,2020,88.4
 Region 12: SOCCSKSARGEN,2020,85.91
-CARAGA: Cordillera Administrative Region,2020,100.0
+CARAGA: CARAGA Administrative Region,2020,100.0
 BARMM: Bangsamoro Autonomous Region in Muslim Mindanao,2020,43.1
